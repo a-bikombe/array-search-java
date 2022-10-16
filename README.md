@@ -1,2 +1,2 @@
-# Searching Arrays
+# Array Search
 
